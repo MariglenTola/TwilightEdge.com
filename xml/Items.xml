@@ -1,0 +1,22 @@
+<Request>
+    <ItemId />
+    <ItemName />
+    <ItemAppGroupCode>bnsgrnTH</ItemAppGroupCode>
+    <ItemType>3</ItemType>
+    <IsConsumable>0</IsConsumable>
+    <BasicPrice>0</BasicPrice>
+    <BasicCurrencyGroupId>69</BasicCurrencyGroupId>
+    <ChangerAdminAccount>TestAdminAccount</ChangerAdminAccount>
+    <ItemDescription />
+    <ItemDisplays type="array">
+        <ItemDisplay>
+            <LanguageCode>11</LanguageCode>
+            <ItemDisplayName />
+            <ItemDisplayDescription />
+        </ItemDisplay>
+    </ItemDisplays>
+    <GameItem>
+        <GameItemKey />
+        <GameItemData>AAAAAAAAAAA=</GameItemData>
+    </GameItem>
+</Request>

@@ -1,0 +1,63 @@
+<Request>
+    <GoodsId />
+    <GoodsName />
+    <GoodsAppGroupCode>bnsgrnTH</GoodsAppGroupCode>
+    <GoodsType>3</GoodsType>
+    <DeliveryType>1</DeliveryType>
+    <SaleStatus>2</SaleStatus>
+    <EffectiveFrom>2020-01-01 00:00:00 +00:00</EffectiveFrom>
+    <EffectiveTo>2099-12-31 23:59:59 +00:00</EffectiveTo>
+    <SaleableQuantity>0</SaleableQuantity>
+    <RefundUnitCode>1</RefundUnitCode>
+    <IsRefundable>0</IsRefundable>
+    <IsAvailableRecurringPayment>1</IsAvailableRecurringPayment>
+    <ChangerAdminAccount>TestAdminAccount</ChangerAdminAccount>
+    <GoodsDescription />
+    <GoodsData>AQAAAAE=</GoodsData>
+    <GoodsPurchaseType>1</GoodsPurchaseType>
+    <GoodsPurchaseCheckMask>0</GoodsPurchaseCheckMask>
+    <GoodsCategories type="array">
+        <GoodsCategory>
+            <CategoryId />
+            <DisplayOrder />
+        </GoodsCategory>
+    </GoodsCategories>
+    <GoodsDisplays type="array">
+        <GoodsDisplay>
+            <LanguageCode>11</LanguageCode>
+            <GoodsDisplayName />
+            <GoodsDisplayDescription />
+        </GoodsDisplay>
+    </GoodsDisplays>
+    <GoodsBasicPrices type="array">
+        <GoodsBasicPrice>
+            <CurrencyGroupId>71</CurrencyGroupId>
+            <BasicSalePrice />
+            <RefundFee>0</RefundFee>
+        </GoodsBasicPrice>
+    </GoodsBasicPrices>
+    <GoodsSalePricePolicies type="array">
+        <GoodsSalePricePolicy>
+            <CurrencyGroupId>71</CurrencyGroupId>
+            <PricePolicyType>1</PricePolicyType>
+            <EffectiveFrom>2020-01-01 00:00:00 +00:00</EffectiveFrom>
+            <EffectiveTo>2099-12-31 23:59:59 +00:00</EffectiveTo>
+            <SalePrice />
+        </GoodsSalePricePolicy>
+    </GoodsSalePricePolicies>
+    <GoodsItems type="array">
+        <GoodsItem>
+            <ItemId />
+            <ItemQuantity />
+            <ItemExpirationType>0</ItemExpirationType>
+            <ItemData>AAAAAAEA</ItemData>
+            <DeliveryPriority>1</DeliveryPriority>
+            <GoodsItemBasicPrices type="array">
+                <GoodsItemBasicPrice>
+                    <CurrencyGroupId>71</CurrencyGroupId>
+                    <BasicSalePrice />
+                </GoodsItemBasicPrice>
+            </GoodsItemBasicPrices>
+        </GoodsItem>
+    </GoodsItems>
+</Request>

@@ -1,0 +1,18 @@
+<Request>
+    <CategoryId />
+    <CategoryName />
+    <AppGroupCode>bnsgrnTH</AppGroupCode>
+    <IsDisplayable>1</IsDisplayable>
+    <DisplayOrder />
+    <ChangerAdminAccount>TestAdminAccount</ChangerAdminAccount>
+    <CurrencyGroupId>71</CurrencyGroupId>
+    <ParentCategoryId />
+    <CategoryData>{"CategoryType":["01"]}</CategoryData>
+    <CategoryDisplays type="array">
+        <CategoryDisplay>
+            <LanguageCode>11</LanguageCode>
+            <CategoryDisplayName />
+            <CategoryDisplayDescription />
+        </CategoryDisplay>
+    </CategoryDisplays>
+</Request>
